@@ -1,6 +1,17 @@
 # PIZZA_SALES_ANALYSIS
 
 ## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Set](#dataset)
+- [Tools and Techniques](#tools-and-techniques)
+- [Data Extraction/ Cleaning/ Modelling](#data-extraction-cleaning-modelling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Visualization](#visualization)
+- [Results/Findings](#results-findings)
+- [Limitations](#limitations)
+- [Recommendations](#recommendations)
+- [References](#references)
+
 
 ## Project Overview
 The Pizza Sales Analysis project aims to provide insights into pizza sales patterns and trends using SQL for data manipulation and Power BI for visualization. This project is designed to help pizza shop owners and stakeholders understand their sales performance, identify best-selling products, and make informed business decisions based on empirical data
@@ -50,7 +61,7 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
 
 This process ensured that the data was properly structured and clean for further analysis in Power BI.
 
-## Exploratory Data Analysis (EDA)  
+## Exploratory Data Analysis  
 The Exploratory Data Analysis involved using SQL to explore the pizza sales dataset to answer key questions, including:  
 1. **Total Revenue**  
 2. **Average Order Value**  
@@ -79,7 +90,7 @@ In this project, several visualizations were created to effectively communicate 
 These visualizations facilitate a better understanding of sales performance and customer preferences.
 
 
-## Results / Findings  
+## Results/ Findings  
 
 The findings from the analysis can be summarized as follows:  
 - **Fridays** and **Thursdays** has higher orders.
@@ -144,7 +155,7 @@ These results provide valuable insights into customer preferences and sales perf
    - Continuously analyze sales data to quickly adapt strategies based on customer behavior and market trends.  
 By adopting these strategies, the company can enhance its offerings, improve customer satisfaction, and drive growth.
 
-## References.
+## References
 
 1. [Youtube](https://www.youtube.com/watch?v=V-s8c6jMRN0&list=PPSV)
 2. [Udemy](https://www.udemy.com/course/complete-microsoft-sql-server-beginner-expert/learn/lecture/22126612#content)
