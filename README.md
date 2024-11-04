@@ -4,10 +4,10 @@
 
 ## Project Overview
 The Pizza Sales Analysis project aims to provide insights into pizza sales patterns and trends using SQL for data manipulation and Power BI for visualization. This project is designed to help pizza shop owners and stakeholders understand their sales performance, identify best-selling products, and make informed business decisions based on empirical data
-[Download Power BI Report](https://github.com/yourusername/yourrepository/blob/main/report.pbix)
+[Download Power BI Report](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA_SALES_REPORT.pbix)
 
 ## Dataset
-### [Pizza_sales.csv]("C:\Users\E-mindset\Downloads\pizza_sales.csv")  
+### Pizza_sales.csv 
 This dataset serves as the primary source for analyzing pizza sales.  
 ### Key Columns  
 The dataset includes the following important columns:  
@@ -31,7 +31,8 @@ In this Pizza Sales Analysis project, the following tools and techniques were ut
 ## Data Extraction/ Cleaning/ Modelling  
 In the Pizza Sales Analysis project, the following steps were followed for data extraction and cleaning:  
 1. **Extraction using SSMS**:  
-   - Used SQL Server Management Studio (SSMS) to extract the dataset into a CSV file.  
+   - Used SQL Server Management Studio (SSMS) to extract the dataset into a CSV file.
+  
 2. **Data Type Adjustments**:  
    - Encountered issues with the data type of one particular column that prevented successful extraction.  
    - Changed the data type of the problematic column to a string to facilitate successful import.  
