@@ -61,7 +61,7 @@ The Exploratory Data Analysis involved using SQL to explore the pizza sales data
 8. **Percentage of Sales by Pizza Category**  
 9. **Top 5 Pizzas by Revenue by order, quantity and revenue**
 10. **Bottom 5 Pizzas by order, quantity and revenue**
-[Download the Word Document](https://github.com/username/repo-name/blob/branch-name/your-document.docx?raw=true)
+[Download the Word Document](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/PIZZA%20SQL%20RESULTS%20AND%20QUERY.docx)
 
 These analyses provided valuable insights into sales performance and customer purchasing behavior.
 
@@ -70,8 +70,11 @@ In this project, several visualizations were created to effectively communicate 
 - **Bar Chart**: Displays the top 5 and bottom 5 pizzas based on order quantity and revenue.  
 - **Line Graph**: Illustrates the monthly trend of total orders.  
 - **Stacked Column Chart**: Depicts the daily trend of total orders.  
-- **Doughnut Chart**: Represents the percentage of sales by pizza category and size.  
+- **Doughnut Chart**: Represents the percentage of sales by pizza category and size.
+
+![Visualization]()
 These visualizations facilitate a better understanding of sales performance and customer preferences.
+
 
 ## Results / Findings  
 
