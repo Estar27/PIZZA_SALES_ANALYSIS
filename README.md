@@ -36,7 +36,7 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
    - Encountered issues with the data type of one particular column that prevented successful extraction.
 ![DataTypeError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true) 
    - Changed the data type of the problematic column to a string to facilitate successful import.
-![DataTypechange]()
+![DataTypechange](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-10-30%20130422.png?raw=true)
 3. **Creating a New Column**:  
    - Created a new column to temporarily hold the values from the old column.  
 4. **Data Transfer**:  
