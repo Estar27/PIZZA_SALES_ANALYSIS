@@ -35,7 +35,8 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
   
 2. **Data Type Adjustments**:  
    - Encountered issues with the data type of one particular column that prevented successful extraction.  
-   - Changed the data type of the problematic column to a string to facilitate successful import.  
+   - Changed the data type of the problematic column to a string to facilitate successful import.
+  [DataTypeError]()
 3. **Creating a New Column**:  
    - Created a new column to temporarily hold the values from the old column.  
 4. **Data Transfer**:  
