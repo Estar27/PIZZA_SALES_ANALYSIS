@@ -45,7 +45,8 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
 6. **Final Data Type Conversion**:  
    - Converted the data type of the new column to a date format.  
    - Renamed the new column to match the original name of the old column.
-![FixError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true)
+![FixError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-10-30%20134044.png?raw=true)
+
 This process ensured that the data was properly structured and clean for further analysis in Power BI.
 
 ## Exploratory Data Analysis (EDA)  
@@ -59,7 +60,9 @@ The Exploratory Data Analysis involved using SQL to explore the pizza sales data
 7. **Monthly Trend of Total Orders**  
 8. **Percentage of Sales by Pizza Category**  
 9. **Top 5 Pizzas by Revenue by order, quantity and revenue**
-10. **Bottom 5 Pizzas by order, quantity and revenue**  
+10. **Bottom 5 Pizzas by order, quantity and revenue**
+[Download the Word Document](https://github.com/username/repo-name/blob/branch-name/your-document.docx?raw=true)
+
 These analyses provided valuable insights into sales performance and customer purchasing behavior.
 
 ## Visualization  
