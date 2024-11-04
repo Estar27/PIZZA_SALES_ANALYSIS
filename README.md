@@ -32,11 +32,10 @@ In this Pizza Sales Analysis project, the following tools and techniques were ut
 In the Pizza Sales Analysis project, the following steps were followed for data extraction and cleaning:  
 1. **Extraction using SSMS**:  
    - Used SQL Server Management Studio (SSMS) to extract the dataset into a CSV file.
-  
 2. **Data Type Adjustments**:  
    - Encountered issues with the data type of one particular column that prevented successful extraction.  
    - Changed the data type of the problematic column to a string to facilitate successful import.
-  [DataTypeError]()
+  ![DataTypeError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true)
 3. **Creating a New Column**:  
    - Created a new column to temporarily hold the values from the old column.  
 4. **Data Transfer**:  
@@ -45,7 +44,8 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
    - Removed the old column from the dataset since it was no longer needed.  
 6. **Final Data Type Conversion**:  
    - Converted the data type of the new column to a date format.  
-   - Renamed the new column to match the original name of the old column.  
+   - Renamed the new column to match the original name of the old column.
+![FixError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true)
 This process ensured that the data was properly structured and clean for further analysis in Power BI.
 
 ## Exploratory Data Analysis (EDA)  
