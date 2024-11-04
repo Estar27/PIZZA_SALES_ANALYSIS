@@ -72,7 +72,9 @@ In this project, several visualizations were created to effectively communicate 
 - **Stacked Column Chart**: Depicts the daily trend of total orders.  
 - **Doughnut Chart**: Represents the percentage of sales by pizza category and size.
 
-![Visualization]()
+![Visualization](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143103.png?raw=true)
+
+![Visualization2](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20143145.png?raw=true)
 These visualizations facilitate a better understanding of sales performance and customer preferences.
 
 
