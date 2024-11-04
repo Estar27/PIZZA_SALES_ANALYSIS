@@ -33,9 +33,10 @@ In the Pizza Sales Analysis project, the following steps were followed for data 
 1. **Extraction using SSMS**:  
    - Used SQL Server Management Studio (SSMS) to extract the dataset into a CSV file.
 2. **Data Type Adjustments**:  
-   - Encountered issues with the data type of one particular column that prevented successful extraction.  
+   - Encountered issues with the data type of one particular column that prevented successful extraction.
+![DataTypeError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true) 
    - Changed the data type of the problematic column to a string to facilitate successful import.
-  ![DataTypeError](https://github.com/Estar27/PIZZA_SALES_ANALYSIS/blob/main/Screenshot%202024-11-04%20140832.png?raw=true)
+![DataTypechange]()
 3. **Creating a New Column**:  
    - Created a new column to temporarily hold the values from the old column.  
 4. **Data Transfer**:  
